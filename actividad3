@@ -13,5 +13,4 @@ public class main2  {
         else if (hora < 0) hora += 24;
         System.out.println(hora);
     }
-
 }
